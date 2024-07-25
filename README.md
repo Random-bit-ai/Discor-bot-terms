@@ -1,0 +1,2 @@
+# Discor-bot-terms
+Nothing 
